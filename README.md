@@ -1,2 +1,2 @@
 # kottans-frontend
-Доброго дня. Початковий навчальний матеріал, який я пройшов в данному курсі навчання, на 10/10. Раніше я трішки працював с системою версій контролю Git, але до проходження навчальних матеріалів було, прямо скажу, максимально незрозуміло. Теоретично стало все набагато зрозуміліще, але далі будемо закріпляти все на практиці.
+Good day. 10/10 for the initial training material I went through in this training course. Previously, I worked a little with the Git version control system, but before going through the training materials, it was, frankly, extremely confusing. Theoretically, everything has become much clearer, but we will further consolidate everything in practice.
